@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body {
+  background-image: url(inter.jpg);
+  box-sizing: cover;
+}
+.row {
+  width: 800px;
+  height: auto;
+  border: 1px solid red;
+}
+#fotoplayer{
+  width: 58%;
+  height: 500PX;
+  border: 1px solid red;
+  background-image: url(erkin.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  float: left;
+
+}
+#datiplayer{
+  color : white;
+  height: 500PX;
+  border: 1px solid red;
+  float: right;
+}
